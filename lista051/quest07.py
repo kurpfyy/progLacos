@@ -11,4 +11,3 @@ while (cont < 200):
     if (div4 == 0 ):
         print(f"{cont} é divisivel por 4")
     cont = cont + 1
-        
